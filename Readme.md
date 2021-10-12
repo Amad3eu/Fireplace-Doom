@@ -16,5 +16,5 @@ This project was inspired by [in these articles](https://medium.com/@FilipeDesch
 
 ## Author
 
-| [<img src="img/../Amad3euPic.png"><br><sub>@Amad3eu</sub>](https://github.com/Amad3eu) |
+| [<img src="Img\ME.jfif"><br><sub>@Amad3eu</sub>](https://github.com/Amad3eu)  |
 | :---: |
