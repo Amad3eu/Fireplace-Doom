@@ -14,7 +14,6 @@ Acquiring knowledge in a practical and fun way, and yes the flame is pink, Barbi
 This project was inspired by [in these articles](https://medium.com/@FilipeDeschamps/tutorial-completo-de-como-implementar-o-algoritmo-do-fogo-do-doom-41d38ac39fa7)(https://fabiensanglard.net/doom_fire_psx/).
 
 
-## Author
 ## :mortar_board: Author
 
 <table align="center">
