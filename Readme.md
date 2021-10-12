@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="" width="480">
+    <img src="Img\interfacePrint.PNG" width="480">
   </a>
 </p>
 
@@ -16,5 +16,5 @@ This project was inspired by [in these articles](https://medium.com/@FilipeDesch
 
 ## Author
 
-| [<img src="Img\ME.jfif"><br><sub>@Amad3eu</sub>](https://github.com/Amad3eu)  |
+| [<img src="https://avatars.githubusercontent.com/u/85834483?v=4"><br><sub>@Amad3eu</sub>](https://github.com/Amad3eu)  |
 | :---: |
